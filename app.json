@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Restaurant App",
+    "slug": "restaurant-app-mvp",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true },
+    "android": { "usesCleartextTraffic": true }
+  }
+}
